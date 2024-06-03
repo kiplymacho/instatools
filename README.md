@@ -229,8 +229,8 @@ screen -list
 - [Fans Facebook](https://www.facebook.com/httpcustomkiplymacho/)
 - [WhatsApp](https://wa.me/6285751032225)
 
-#  .~/Subscribe.~/
+#  *_~Subscribe~_*
 - Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
 
-#  .~/Follow.~/ 
+#  *_~Follow~_*
 - Klik Disini👉[instagram](https://instagram.com/kiplymacho)
