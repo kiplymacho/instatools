@@ -13,7 +13,7 @@ Powered By kiplymacho
 ## ![Image](Instagram2016_white-(64px).png)kiplymacho 
 
 
-## How to install (DEFAULT or BASIC USAGE)
+## Cara Install (PENGGUNAAN DEFAULT atau BASIC)
 
 Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 
@@ -38,7 +38,7 @@ ls
 	* node filename
 <br/>
 
-## For PC/Laptop ONLY:
+## HANYA UNTUK PC/Laptop:
 	* Download GIT for Windows (https://git-scm.com/download/) *Choose WIN & 32bit/64bit
 	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
 	* INSTALL GIT for Windows & NodeJS
@@ -51,9 +51,7 @@ ls
 	- node filename
 <br/>
 
-## For TERMUX ONLY:
-
- 
+## HANYA UNTUK TERMUX:
 
 ```
  pkg install git
@@ -79,7 +77,7 @@ ls
 	
 <br/>
 
-## For CodeAnywhere/VPS (Centos):
+## Untuk CodeAnywhere/VPS (Centos):
 ```
 sudo yum -y update
 ```
@@ -198,13 +196,13 @@ screen -list
 
 <br/>
 
-## WARNING
+## PERINGATAN 
 	"Use tools at your own risk!!!"
 	"Use this Tool for personal use, not for sale!!!"
 	"Make sure your account is not in private to use this tool!!!"
 <br/>
 
-## UPDATE
+## PERBAHARUI
     1. Fix Error No Detect Followers Target
     2. Input Target/delay Manual (ITTYW)
     3. + Improvements In Display Program
