@@ -21,22 +21,7 @@ Unduh Aplikasi Termux Nya Disini:
 👉
 [termux](https://sfile.mobi/1Pk3b69xugs7)
 
-<br/>
-
-## HANYA UNTUK PC/Laptop:
-	* Download GIT for Windows (https://git-scm.com/download/) *Choose WIN & 32bit/64bit
-	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
-	* INSTALL GIT for Windows & NodeJS
-	- Download File on Github (https://github.com/kiplymacho/instatools)
-	- Extract File instatools and enter the folder
-	- Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the instatools folder!!!)
-	- Then type: unzip node_modules.zip
-	- To View The Contents Of a folder in bash, type: "ls" (without "")
-	- Then select the tool you want to use!
-	- node filename
-<br/>
-
-## UNTUK Aplikasi TERMUX Di android:
+## UNTUK Aplikasi TERMUX Di Android:
 
 Unduh Script Nya Disini:
 👉[Script instatools](https://sfile.mobi/58T2x7a3qUy)
@@ -116,7 +101,7 @@ screen -list
 
 <br/>
 
-## INFORMATION:
+## INFORMASI:
 	* dellallphoto			"DELETE ALL POST IG"			(WORK & TESTED)
 	* fah				"SELECTED WITH HASTAG IG"		(WORK & TESTED)
 	* fftsleep			"SELECTED WITH TARGET IG"		(WORK & TESTED)
