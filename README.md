@@ -81,27 +81,6 @@ https://rpm.nodesource.com/setup_10.x | sudo bash -
 sudo yum -y install nodejs
 ```
 
-=========== Basic Usage ==============
-
-```
-git clone https://github.com/kiplymacho/instatools
-```
-```
-cd instatools
-```
-```
-unzip node_modules.zip
-```
-```
-ls
-```
-
-- Then select the tool you want to use!
-
-```
-node filename
-```	
-
 - Kita buat session dulu ya!
   
 ```
