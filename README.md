@@ -51,29 +51,10 @@ ls
 	- node filename
 <br/>
 
-## HANYA UNTUK TERMUX:
+## UNTUK Aplikasi TERMUX Di android:
 
-```
- pkg install git
-```
-```
-pkg install nodejs
-```
-```
-git clone https://github.com/kiplymacho/instatools
-```
-```
-cd instatools
-```
-```
-unzip node_modules.zip
-```
-```
-ls
-```
-
-- Then select the tool you want to use!
-- node filename
+Unduh Script Nya Disini:
+👉[Script instatools](https://sfile.mobi/58T2x7a3qUy)
 	
 <br/>
 
