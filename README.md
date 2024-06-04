@@ -21,21 +21,6 @@ Unduh Aplikasi Termux Nya Disini:
 👉
 [termux](https://sfile.mobi/1Pk3b69xugs7)
 
-```
-git clone https://github.com/kiplymacho/instatools
-```
-
-```
-cd instatools
-```
-```
-unzip node_modules.zip
-```
-```
-ls
-```
-- Then select the tool you want to use!
-	* node filename
 <br/>
 
 ## HANYA UNTUK PC/Laptop:
