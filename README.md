@@ -10,8 +10,11 @@
 Powered By kiplymacho
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg"></h2>
 
-## ![Image](Instagram2016_white-(64px).png)kiplymacho 
+<h2 align="center">
 
+## ![Image](Instagram2016_white-(64px).png)
+
+kiplymacho 
 
 ## Cara Install (PENGGUNAAN DEFAULT atau BASIC)
 
