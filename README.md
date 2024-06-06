@@ -12,7 +12,7 @@ Powered By kiplymacho
 
 <h2 align="center">
 
-## ![Image](Instagram2016_white-(64px).png)
+![Image](Instagram2016_white-(64px).png)
 
 kiplymacho 
 
