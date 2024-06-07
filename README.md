@@ -32,7 +32,7 @@ Unduh Aplikasi Termux Nya Disini:
 
 ## UNTUK Aplikasi TERMUX Di Android:
 
-<h2 align=<"center">
+<h2 align="center">
 
 Unduh Script Nya Disini:
 
@@ -168,12 +168,12 @@ screen -list
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
 
-- Kritik & Saran 
-- [Fans Facebook](https://www.facebook.com/httpcustomkiplymacho/)
-- [WhatsApp](https://wa.me/6285751032225)
+- Kritik & Saran
+- [![Facebook](https://img.shields.io/badge/Facebook-7K%2B-yellow.svg?style=flat)](https://www.facebook.com/httpcustomkiplymacho/)
+-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-400%2B-yellow.svg?style=flat)](https://wa.me/6285751032225)
 
-#  *_~Subscribe~_*
-- Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
+# _Subscribe_
+- Klik Disini 👉[![YouTube](https://img.shields.io/badge/YouTube-200%2B-yellow.svg?style=flat)](https://www.youtube.com/@km7ujuh)
 
-#  *_~Follow~_*
-- Klik Disini👉[instagram](https://instagram.com/kiplymacho)
+# _Follow_
+- Klik Disini👉[![instagram](https://img.shields.io/badge/Instagram-2K%2B-yellow.svg?style=flat)](https://instagram.com/kiplymacho)
