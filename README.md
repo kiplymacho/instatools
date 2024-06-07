@@ -33,7 +33,6 @@ Unduh Script Nya Disini:
 
 [![Script instatools](https://img.shields.io/badge/Scriptinstatools-%2B-yellow.svg?style=flat)](https://sfile.mobi/58T2x7a3qUy)
 	
-<br/>
 
 ## Untuk CodeAnywhere/VPS (Centos):
 ```
