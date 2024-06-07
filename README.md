@@ -20,8 +20,15 @@ kiplymacho
 
 ## Cara Install (PENGGUNAAN DEFAULT atau BASIC)
 
-- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Disini:
-👉[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
+- Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
+
+<h2 align="center">
+
+Unduh Aplikasi Termux Nya Disini:
+
+👇👇
+  
+[![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
 ## UNTUK Aplikasi TERMUX Di Android:
 
